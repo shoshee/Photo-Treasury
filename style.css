@@ -1,0 +1,60 @@
+#navbarNav{
+    margin-left: auto;
+}
+.image-show{
+    height: 80px;
+}
+.panda-card{
+    padding: 5px;
+    border: 0px;
+}
+.panda-card-footer{
+    border: 0px;
+    background-color: white;
+}
+.categories img{
+    padding: 20px;
+    width: 70px;
+    border-radius: 5px;
+
+}
+/* .card-img-top{
+    height: 200px;
+    width:100px
+
+
+
+} */
+.panda-slide{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.nav-position {
+    margin-left: auto;
+}
+.gap{
+    padding: 70px 0px;
+}
+.gap1{
+    padding: 100px 0px;
+}
+/* .Shoes{
+    display: flex;
+} */
+
+.contact-area{
+    background-color:cornsilk;
+}
+#sign-up-area{
+    background-color: rgb(228, 222, 215);
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 10px;
+}
+
+.about{
+    background-color: cornsilk;
+}
+
